@@ -1,1 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+    color: #000;
+    text-align: left;
+    background-image: url(bg.png);
+    background-color: lightslategray;
+}
+nav {
+    background-color: #000000;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+nav a {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(255, 255, 255);
+    margin: 0 15px;
+    text-decoration: none;}
 
